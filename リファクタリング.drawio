@@ -112,6 +112,18 @@
         <mxCell id="1GBH_SfIVhljW1qB09_X-54" value="stg-0208-seizou_zumen_pj" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-670" y="20" width="170" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1GBH_SfIVhljW1qB09_X-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="870" width="980" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBH_SfIVhljW1qB09_X-57" value="terraform管理外" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="870" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBH_SfIVhljW1qB09_X-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1220" width="980" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="1GBH_SfIVhljW1qB09_X-60" value="本番環境" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="1220" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
