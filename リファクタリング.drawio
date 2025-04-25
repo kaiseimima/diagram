@@ -98,7 +98,7 @@
           <mxGeometry x="87.4380165289256" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yOQ3HkAMDV6fzTH-cAhq-3" value="" style="group" vertex="1" connectable="0" parent="yOQ3HkAMDV6fzTH-cAhq-4">
-          <mxGeometry x="520" y="60" width="350" height="135.17" as="geometry" />
+          <mxGeometry x="497" y="50" width="350" height="135.17" as="geometry" />
         </mxCell>
         <mxCell id="1GBH_SfIVhljW1qB09_X-194" value="aws_cloudwatch_log_group.stg_api_logs&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;aws_cloudwatch_log_group.stg_client_logs&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="yOQ3HkAMDV6fzTH-cAhq-3" vertex="1">
           <mxGeometry width="350" height="135.17" as="geometry" />
